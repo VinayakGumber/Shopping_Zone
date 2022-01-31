@@ -66,3 +66,8 @@ body {
 {
     background-color: #fce6bb;
 }
+
+.item active
+{
+    height: auto;
+}
