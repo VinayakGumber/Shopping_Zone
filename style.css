@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-color: #fce6bb;
+}
+
+#myCarousel {
+    background-color: #fce6bb;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.mobiles {
+    cursor: pointer;
+}
+
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.img-responsive {
+    height: 300px;
+}
+
+.home_kitchens {
+    cursor: pointer;
+}
+
+.electronics {
+    cursor: pointer;
+}
+
+#links:hover {
+    font-size: 20px;
+    color: black;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+}
+
+.logo_e {
+    height: 40px;
+    width: 45px;
+}
+
+.myNavbar
+{
+    background-color: #fce6bb;
+}
